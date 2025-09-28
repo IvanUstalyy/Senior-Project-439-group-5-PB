@@ -6,19 +6,19 @@ We began working on our project by establishing some ins and outs of how to prop
 This project will contain the use/implementation of an AI model strictly for categorical suggestions based on user history.
 
 #Contributors include:
-IVAN AMOS-MOSES
-DEVIN CONCANNON
-CONNOR SMITH
-DAMIAN TREVINO
+-IVAN AMOS-MOSES
+-DEVIN CONCANNON
+-CONNOR SMITH
+-DAMIAN TREVINO
 
 #Branding colors - RGB & Hex codes:
-rgb(37, 195, 206) = #25c3ce (Turquoise)
-rgb(37, 111, 206) = #256fce (Cool blue)
-rgb(37, 206, 133) = #25ce85 (Cool green)
+-rgb(37, 195, 206) = #25c3ce (Turquoise)
+-rgb(37, 111, 206) = #256fce (Cool blue)
+-rgb(37, 206, 133) = #25ce85 (Cool green)
 ________________________________________________________________________________________________________________________________________________________________________________________________________
 As of SEPTEMBER 28TH, 5:40 AM CDT
 
-IVAN AMOS-MOSES - Setting up and managing GitHub repository
-DEVIN CONCANNON - Established a loose template and web-app framework
-CONNOR SMITH - Established portion of color palette and constructed template to begin HTML
-DAMIAN TREVINO - 
+-IVAN AMOS-MOSES - Setting up and managing GitHub repository
+-DEVIN CONCANNON - Established a loose template and web-app framework
+-CONNOR SMITH - Established portion of color palette and constructed template to begin HTML
+-DAMIAN TREVINO - 
