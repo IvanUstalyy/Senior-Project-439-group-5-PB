@@ -1,0 +1,28 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewpoint" content="width=device-width, inital-scale=1.0">
+
+#Ivan: Adding optional import for a CSS and a PHP file here shortly. We'll have three files, this one for HTML, one for CSS and one for PHP headers / footers.
+
+    <title> TITLE PLACEHOLDER </title>
+
+#Ivan: Added a space for a branded favicon
+    <link rel="icon" type="image/x-icon" href="///">
+
+    <style>
+        body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        background-color: rgb(37, 195, 206);
+        }
+    </style>
+</head>
+
+#Ivan: Added a body placeholder, expecting Devin to paste template portions below. I think a Grid layout would work nicely, but whatever we have will be perfect for submission.
+#Ensure we separate our HTML and our CSS. File management is much easier and more organized this way.
+  <body>
+  </body>
+</html>
