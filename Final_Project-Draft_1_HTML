@@ -9,16 +9,6 @@
 
 #Ivan: Added a space for a branded favicon
     <link rel="icon" type="image/x-icon" href="///">
-
-    <style>
-        body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-        text-align: center;
-        background-color: rgb(37, 195, 206);
-        }
-    </style>
 </head>
 
 #Ivan: Added a body placeholder, expecting Devin to paste template portions below. I think a Grid layout would work nicely, but whatever we have will be perfect for submission.
